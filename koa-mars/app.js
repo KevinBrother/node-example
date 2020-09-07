@@ -39,8 +39,10 @@ app.use(async (ctx, next) => {
 // 导入controller
 let demo = require('./controller/demoController.js');
 let basic = require('./controller/basicController.js');
+let task = require('./controller/taskController.js');
 router.use('/demo', demo.routes());
 router.use('/api', basic.routes());
+router.use('/task', task.routes());
 
 app.use(bodyParser()); // 必须在router之前注册
 app.use(router.routes());
