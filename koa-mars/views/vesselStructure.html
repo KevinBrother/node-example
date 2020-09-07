@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>船舶结构</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            .flex {
+                display: flex;
+            }
+            .dividerLine {
+                position: relative;
+            }
+            .edit {
+                position: absolute;
+                top: 10px;
+                right: 50px;
+                cursor: pointer;
+            }
+            .dividerLine::after {
+                content: "";
+                width: 1px;
+                height: 90%;
+                background-color: #e4e7ed;
+                display: inline-block;
+                position: absolute;
+                top: 10px;
+                right: 10px;
+            }
+            ul.vessel-info li {
+                margin-bottom: 10px;
+            }
+            .up,
+            .face {
+                display: flex;
+                margin: 40px 0;
+                position: relative;
+                width: 55vw;
+                height: 80px;
+                flex: 0 1 87px;
+            }
+            .up .tier-name,
+            .face .tier-name {
+                position: absolute;
+                left: 50%;
+                top: 110%;
+            }
+            .up ul,
+            .face ul {
+                padding: 0;
+                margin: 0;
+                list-style: none;
+                border: 1px solid #c0c4cc;
+                border-right: 0px;
+                flex: auto;
+                display: flex;
+                flex-direction: column;
+                position: relative;
+            }
+            .up ul > div,
+            .face ul > div {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                font-size: 16px;
+            }
+            .up ul li:not(:first-of-type),
+            .face ul li:not(:first-of-type) {
+                border-top: 2px solid #c0c4cc;
+            }
+            .up ul li,
+            .face ul li {
+                flex: 1;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .up .img-ul,
+            .face .img-ul {
+                position: absolute;
+                border: 0px;
+                width: 70px;
+                height: 70px;
+            }
+            .up .img-ul li,
+            .face .img-ul li {
+                border: 0px;
+            }
+            .up .img-ul li > img,
+            .face .img-ul li > img {
+                width: 80%;
+                height: 100%;
+            }
+            .face .img-ul.before {
+                transform: scale(2.3, 2.9);
+                right: -71px;
+                top: -39px;
+            }
+            .face .img-ul.behind {
+                transform: scale(2.3, 3);
+                left: -53px;
+                top: -44px;
+            }
+            .up .img-ul.before {
+                transform: scale(2.3, 2.4);
+                right: -53px;
+                top: 5px;
+            }
+            .up .img-ul.behind {
+                transform: scale(2.3, 2.4);
+                left: -62px;
+                top: -3px;
+            }
+        </style>
+    </head>
+    <body>
+        <div
+            class="flex"
+            style="flex-direction: column; align-items: center; flex-basis: 200px; margin-top: 80px"
+        >
+            <div class="face">
+                <!-- 侧视图 -->
+                <ul class="img-ul behind">
+                    <li>
+                        <img src="/public/images/report/侧尾.png" alt="" />
+                    </li>
+                </ul>
+                {% for hold in vessel.children %}
+                <ul>
+                    <!-- 舱口名 -->
+                    <div>{{ hold.hatchName }}</div>
+                    {% for space in hold.tierQty %}
+                    <li>
+                        <!-- 每个舱口的层数 -->
+                        <div></div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+                <ul class="img-ul before">
+                    <li>
+                        <img src="/public/images/report/侧头.png" alt="" />
+                    </li>
+                </ul>
+            </div>
+            {% for tier in topViewData %}
+            <div class="up">
+                <div class="tier-name">{{ tier.name }}</div>
+                <ul class="img-ul behind">
+                    <li>
+                        <img src="/public/images/report/俯尾.png" alt="" />
+                    </li>
+                </ul>
+                {% for hold in tier.hold %}
+                <ul>
+                    <div>{{ hold.hatchName }}</div>
+                    {% for space in hold.space %}
+                    <li>
+                        <div>
+                            <!-- {{space.spaceName}}1212 -->
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+                <ul class="img-ul before">
+                    <li>
+                        <img src="/public/images/report/俯头.png" alt="" />
+                    </li>
+                </ul>
+            </div>
+            {% endfor %}
+        </div>
+    </body>
+</html>

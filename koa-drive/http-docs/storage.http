@@ -1,0 +1,18 @@
+@baseUrl=http://localhost
+@port=7200
+@host={{baseUrl}}:{{port}}
+@contentType = application/json
+
+###
+# @name storageResource
+POST {{host}}/storage HTTP/1.1
+Content-Type: {{contentType}}
+
+{
+    "code": "userInfo",
+    "data": {
+        "username": "admin",
+        "post": "developer",
+        "address": "shanghai"
+    }
+}

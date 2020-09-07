@@ -1,0 +1,87 @@
+2020-09-06 09:31:28,202 INFO 23684 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68311800ms at 2020-09-07 04:30:00.002
+2020-09-06 09:31:28,203 INFO 23684 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 52111798ms at 2020-09-07 00:00:00.001
+2020-09-06 09:31:28,203 INFO 23684 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52112797ms at 2020-09-07 00:00:01.000
+2020-09-06 09:31:28,033 INFO 3208 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:31:28,033 INFO 3208 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:31:28,033 INFO 3208 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:32:23,918 INFO 16484 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:32:23,918 INFO 16484 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:32:23,918 INFO 16484 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:33:00,654 INFO 28388 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68219348ms at 2020-09-07 04:30:00.002
+2020-09-06 09:33:00,655 INFO 28388 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 52019346ms at 2020-09-07 00:00:00.001
+2020-09-06 09:33:00,655 INFO 28388 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 52020345ms at 2020-09-07 00:00:01.000
+2020-09-06 09:33:00,520 INFO 9664 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:33:00,520 INFO 9664 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:33:00,520 INFO 9664 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:34:32,980 INFO 2928 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:34:32,980 INFO 2928 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:34:32,980 INFO 2928 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:34:39,760 INFO 24336 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:34:39,760 INFO 24336 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:34:39,760 INFO 24336 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:34:57,620 INFO 29112 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 68102382ms at 2020-09-07 04:30:00.002
+2020-09-06 09:34:57,621 INFO 29112 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 51902380ms at 2020-09-07 00:00:00.001
+2020-09-06 09:34:57,621 INFO 29112 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 51903379ms at 2020-09-07 00:00:01.000
+2020-09-06 09:34:57,490 INFO 22232 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:34:57,490 INFO 22232 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:34:57,490 INFO 22232 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:36:33,186 INFO 10532 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:36:33,186 INFO 10532 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:36:33,186 INFO 10532 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:36:37,537 INFO 21844 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:36:37,537 INFO 21844 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:36:37,537 INFO 21844 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:36:54,788 INFO 9932 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:36:54,788 INFO 9932 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:36:54,788 INFO 9932 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:36:58,304 INFO 16104 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:36:58,304 INFO 16104 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:36:58,304 INFO 16104 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:37:03,692 INFO 14016 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:37:03,692 INFO 14016 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:37:03,692 INFO 14016 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:38:47,796 INFO 20240 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:38:47,796 INFO 20240 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:38:47,796 INFO 20240 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:39:26,259 INFO 20368 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:39:26,259 INFO 20368 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:39:26,259 INFO 20368 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:39:41,266 INFO 15312 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:39:41,266 INFO 15312 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:39:41,266 INFO 15312 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:40:38,470 INFO 15872 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:40:38,470 INFO 15872 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:40:38,470 INFO 15872 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:45:54,281 INFO 24152 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 67445729ms at 2020-09-07 04:30:00.009
+2020-09-06 09:45:54,282 INFO 24152 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 51245719ms at 2020-09-07 00:00:00.001
+2020-09-06 09:45:54,283 INFO 24152 [Timer] D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 51246718ms at 2020-09-07 00:00:01.001
+2020-09-06 09:45:53,940 INFO 6784 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:45:53,940 INFO 6784 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:45:53,940 INFO 6784 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:46:24,725 INFO 21252 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:46:24,725 INFO 21252 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:46:24,725 INFO 21252 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:46:37,892 INFO 7684 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:46:37,893 INFO 7684 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:46:37,893 INFO 7684 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:50:25,967 INFO 2424 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:50:25,967 INFO 2424 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:50:25,967 INFO 2424 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:50:38,203 INFO 1820 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:50:38,203 INFO 1820 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:50:38,203 INFO 1820 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:51:56,676 INFO 24480 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:51:56,676 INFO 24480 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:51:56,676 INFO 24480 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:52:03,449 INFO 27016 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:52:03,449 INFO 27016 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:52:03,449 INFO 27016 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:53:42,035 INFO 3236 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:53:42,035 INFO 3236 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:53:42,035 INFO 3236 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:53:44,332 INFO 20304 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:53:44,332 INFO 20304 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:53:44,332 INFO 20304 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-09-06 09:55:39,183 INFO 9832 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-09-06 09:55:39,183 INFO 9832 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-09-06 09:55:39,183 INFO 9832 [egg-schedule]: register schedule D:\vscodewk\node-example\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

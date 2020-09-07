@@ -1,0 +1,57 @@
+2020-09-06 09:31:33,468 ERROR 3208 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (D:\vscodewk\node-example\egg-demo\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (D:\vscodewk\node-example\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (D:\vscodewk\node-example\egg-demo\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (D:\vscodewk\node-example\egg-demo\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (D:\vscodewk\node-example\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (D:\vscodewk\node-example\egg-demo\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at D:\vscodewk\node-example\egg-demo\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (D:\vscodewk\node-example\egg-demo\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (D:\vscodewk\node-example\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (D:\vscodewk\node-example\egg-demo\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 3208
+hostname: LAPTOP-EV962OAA
+
+2020-09-06 09:34:45,663 ERROR 28388 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:123:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\vscodewk\\node-example\\egg-demo\\app\\public"
+name: "EPERMError"
+pid: 28388
+hostname: LAPTOP-EV962OAA
+
+2020-09-06 09:54:56,510 ERROR 20304 [-/127.0.0.1/-/16ms GET /news] nodejs.TypeError: Cannot read property 'list' of undefined
+    at NewsController.list (D:\vscodewk\node-example\egg-demo\app\controller\news.js:16:49)
+    at Object.callFn (D:\vscodewk\node-example\egg-demo\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\vscodewk\node-example\egg-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\vscodewk\node-example\egg-demo\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\vscodewk\node-example\egg-demo\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\vscodewk\node-example\egg-demo\node_modules\koa-compose\index.js:44:32)
+    at next (D:\vscodewk\node-example\egg-demo\node_modules\koa-compose\index.js:45:18)
+    at D:\vscodewk\node-example\egg-demo\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\vscodewk\node-example\egg-demo\node_modules\koa-compose\index.js:44:32)
+    at D:\vscodewk\node-example\egg-demo\node_modules\koa-compose\index.js:36:12
+
+pid: 20304
+hostname: LAPTOP-EV962OAA
+
+2020-09-06 09:56:24,261 ERROR 9832 [-/127.0.0.1/-/5045ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (D:\vscodewk\node-example\egg-demo\node_modules\urllib\lib\urllib.js:946:15)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5034,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9832
+hostname: LAPTOP-EV962OAA
+

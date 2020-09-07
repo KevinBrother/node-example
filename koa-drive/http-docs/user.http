@@ -1,0 +1,39 @@
+@baseUrl=http://localhost
+@port=7200
+@host={{baseUrl}}:{{port}}
+@contentType = application/json
+
+###
+# @name fetchAllUser
+GET {{host}}/user HTTP/1.1
+
+###
+# @name createUser
+POST {{host}}/user HTTP/1.1
+Content-Type: {{contentType}}
+
+{
+    "username": "Herry",
+    "password": "123456"
+}
+
+###
+
+@userId = {{fetchAllUser.response.body.data[0]._id}}
+
+# @name fetchUserById
+GET {{host}}/user/{{userId}}
+
+###
+# @name modifyUser
+PUT {{host}}/user/{{userId}}
+Content-Type: {{contentType}}
+
+{
+    "username": "Henrry",
+    "password": "1234567"
+}
+
+###
+# @name removeUserById
+DELETE {{host}}/user/{{userId}}

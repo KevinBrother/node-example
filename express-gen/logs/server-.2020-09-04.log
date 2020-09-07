@@ -1,0 +1,1233 @@
+[2020-09-04T14:22:11.297] [INFO] normal - test info 1
+[2020-09-04T14:23:36.089] [INFO] normal - test info 1
+[2020-09-04T14:23:47.569] [INFO] normal - test info 1
+[2020-09-04T14:23:51.004] [INFO] normal - test info 1
+[2020-09-04T14:24:40.002] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:49:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T14:36:11.244] [INFO] normal - test info 1
+[2020-09-04T14:36:18.225] [INFO] normal - test info 1
+[2020-09-04T14:36:25.192] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:49:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T14:38:40.644] [INFO] normal - test info 1
+[2020-09-04T14:39:41.844] [INFO] normal - test info 1
+[2020-09-04T14:39:45.326] [INFO] normal - test info 1
+[2020-09-04T14:39:51.632] [INFO] normal - test info 1
+[2020-09-04T14:40:49.137] [INFO] normal - test info 1
+[2020-09-04T14:40:57.965] [INFO] normal - test info 1
+[2020-09-04T14:45:25.010] [INFO] normal - test info 1
+[2020-09-04T14:46:34.907] [INFO] normal - test info 1
+[2020-09-04T14:46:49.907] [INFO] normal - test info 1
+[2020-09-04T14:48:33.314] [INFO] normal - test info 1
+[2020-09-04T14:48:52.568] [INFO] normal - test info 1
+[2020-09-04T14:59:36.896] [INFO] normal - test info 1
+[2020-09-04T14:59:56.258] [INFO] normal - test info 1
+[2020-09-04T15:00:48.204] [INFO] normal - test info 1
+[2020-09-04T15:01:16.084] [INFO] normal - test info 1
+[2020-09-04T15:01:16.203] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:53:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T15:02:11.734] [INFO] normal - test info 1
+[2020-09-04T15:02:13.896] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:53:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T15:03:14.137] [INFO] normal - test info 1
+[2020-09-04T15:06:33.493] [INFO] normal - test info 1
+[2020-09-04T15:06:57.555] [INFO] normal - test info 1
+[2020-09-04T15:07:33.558] [INFO] normal - test info 1
+[2020-09-04T15:07:42.254] [INFO] normal - test info 1
+[2020-09-04T15:07:51.631] [INFO] normal - test info 1
+[2020-09-04T15:07:56.125] [INFO] normal - IncomingMessage {
+  _readableState: ReadableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    buffer: BufferList { head: null, tail: null, length: 0 },
+    length: 0,
+    pipes: null,
+    pipesCount: 0,
+    flowing: null,
+    ended: true,
+    endEmitted: false,
+    reading: false,
+    sync: true,
+    needReadable: false,
+    emittedReadable: false,
+    readableListening: false,
+    resumeScheduled: false,
+    paused: true,
+    emitClose: true,
+    autoDestroy: false,
+    destroyed: false,
+    defaultEncoding: 'utf8',
+    awaitDrain: 0,
+    readingMore: true,
+    decoder: null,
+    encoding: null
+  },
+  readable: true,
+  _events: [Object: null prototype] {
+    end: [Function: resetHeadersTimeoutOnReqEnd]
+  },
+  _eventsCount: 1,
+  _maxListeners: undefined,
+  socket: Socket {
+    connecting: false,
+    _hadError: false,
+    _parent: null,
+    _host: null,
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: null,
+      pipesCount: 0,
+      flowing: true,
+      ended: false,
+      endEmitted: false,
+      reading: true,
+      sync: false,
+      needReadable: true,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      paused: false,
+      emitClose: false,
+      autoDestroy: false,
+      destroyed: false,
+      defaultEncoding: 'utf8',
+      awaitDrain: 0,
+      readingMore: false,
+      decoder: null,
+      encoding: null
+    },
+    readable: true,
+    _events: [Object: null prototype] {
+      end: [Array],
+      timeout: [Function: socketOnTimeout],
+      data: [Function: bound socketOnData],
+      error: [Function: socketOnError],
+      close: [Array],
+      drain: [Function: bound socketOnDrain],
+      resume: [Function: onSocketResume],
+      pause: [Function: onSocketPause]
+    },
+    _eventsCount: 8,
+    _maxListeners: undefined,
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: false,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    allowHalfOpen: true,
+    _sockname: null,
+    _pendingData: null,
+    _pendingEncoding: '',
+    server: Server {
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _connections: 2,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      httpAllowHalfOpen: false,
+      timeout: 120000,
+      keepAliveTimeout: 5000,
+      maxHeadersCount: null,
+      headersTimeout: 40000,
+      _connectionKey: '6::::3000',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(asyncId)]: 10
+    },
+    _server: Server {
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _connections: 2,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      httpAllowHalfOpen: false,
+      timeout: 120000,
+      keepAliveTimeout: 5000,
+      maxHeadersCount: null,
+      headersTimeout: 40000,
+      _connectionKey: '6::::3000',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(asyncId)]: 10
+    },
+    timeout: 120000,
+    parser: HTTPParser {
+      '0': [Function: parserOnHeaders],
+      '1': [Function: parserOnHeadersComplete],
+      '2': [Function: parserOnBody],
+      '3': [Function: parserOnMessageComplete],
+      '4': [Function: bound onParserExecute],
+      _headers: [],
+      _url: '',
+      socket: [Circular],
+      incoming: [Circular],
+      outgoing: null,
+      maxHeaderPairs: 2000,
+      _consumed: true,
+      onIncoming: [Function: bound parserOnIncoming],
+      parsingHeadersStart: 0
+    },
+    on: [Function: socketListenerWrap],
+    addListener: [Function: socketListenerWrap],
+    prependListener: [Function: socketListenerWrap],
+    _paused: false,
+    _httpMessage: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      socket: [Circular],
+      connection: [Circular],
+      _header: null,
+      _onPendingData: [Function: bound updateOutgoingData],
+      _sent100: false,
+      _expect_continue: false,
+      req: [Circular],
+      locals: [Object: null prototype] {},
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(isCorked)]: false,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    [Symbol(asyncId)]: 14,
+    [Symbol(kHandle)]: TCP {
+      reading: true,
+      onconnection: null,
+      _consumed: true,
+      [Symbol(owner)]: [Circular]
+    },
+    [Symbol(lastWriteQueueSize)]: 0,
+    [Symbol(timeout)]: Timeout {
+      _idleTimeout: 120000,
+      _idlePrev: [TimersList],
+      _idleNext: [Timeout],
+      _idleStart: 5263,
+      _onTimeout: [Function: bound ],
+      _timerArgs: undefined,
+      _repeat: null,
+      _destroyed: false,
+      [Symbol(refed)]: false,
+      [Symbol(asyncId)]: 15,
+      [Symbol(triggerId)]: 14
+    },
+    [Symbol(kBuffer)]: null,
+    [Symbol(kBufferCb)]: null,
+    [Symbol(kBufferGen)]: null,
+    [Symbol(kBytesRead)]: 0,
+    [Symbol(kBytesWritten)]: 0
+  },
+  connection: Socket {
+    connecting: false,
+    _hadError: false,
+    _parent: null,
+    _host: null,
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: null,
+      pipesCount: 0,
+      flowing: true,
+      ended: false,
+      endEmitted: false,
+      reading: true,
+      sync: false,
+      needReadable: true,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      paused: false,
+      emitClose: false,
+      autoDestroy: false,
+      destroyed: false,
+      defaultEncoding: 'utf8',
+      awaitDrain: 0,
+      readingMore: false,
+      decoder: null,
+      encoding: null
+    },
+    readable: true,
+    _events: [Object: null prototype] {
+      end: [Array],
+      timeout: [Function: socketOnTimeout],
+      data: [Function: bound socketOnData],
+      error: [Function: socketOnError],
+      close: [Array],
+      drain: [Function: bound socketOnDrain],
+      resume: [Function: onSocketResume],
+      pause: [Function: onSocketPause]
+    },
+    _eventsCount: 8,
+    _maxListeners: undefined,
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: false,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    allowHalfOpen: true,
+    _sockname: null,
+    _pendingData: null,
+    _pendingEncoding: '',
+    server: Server {
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _connections: 2,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      httpAllowHalfOpen: false,
+      timeout: 120000,
+      keepAliveTimeout: 5000,
+      maxHeadersCount: null,
+      headersTimeout: 40000,
+      _connectionKey: '6::::3000',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(asyncId)]: 10
+    },
+    _server: Server {
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _connections: 2,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      httpAllowHalfOpen: false,
+      timeout: 120000,
+      keepAliveTimeout: 5000,
+      maxHeadersCount: null,
+      headersTimeout: 40000,
+      _connectionKey: '6::::3000',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(asyncId)]: 10
+    },
+    timeout: 120000,
+    parser: HTTPParser {
+      '0': [Function: parserOnHeaders],
+      '1': [Function: parserOnHeadersComplete],
+      '2': [Function: parserOnBody],
+      '3': [Function: parserOnMessageComplete],
+      '4': [Function: bound onParserExecute],
+      _headers: [],
+      _url: '',
+      socket: [Circular],
+      incoming: [Circular],
+      outgoing: null,
+      maxHeaderPairs: 2000,
+      _consumed: true,
+      onIncoming: [Function: bound parserOnIncoming],
+      parsingHeadersStart: 0
+    },
+    on: [Function: socketListenerWrap],
+    addListener: [Function: socketListenerWrap],
+    prependListener: [Function: socketListenerWrap],
+    _paused: false,
+    _httpMessage: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      socket: [Circular],
+      connection: [Circular],
+      _header: null,
+      _onPendingData: [Function: bound updateOutgoingData],
+      _sent100: false,
+      _expect_continue: false,
+      req: [Circular],
+      locals: [Object: null prototype] {},
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(isCorked)]: false,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    [Symbol(asyncId)]: 14,
+    [Symbol(kHandle)]: TCP {
+      reading: true,
+      onconnection: null,
+      _consumed: true,
+      [Symbol(owner)]: [Circular]
+    },
+    [Symbol(lastWriteQueueSize)]: 0,
+    [Symbol(timeout)]: Timeout {
+      _idleTimeout: 120000,
+      _idlePrev: [TimersList],
+      _idleNext: [Timeout],
+      _idleStart: 5263,
+      _onTimeout: [Function: bound ],
+      _timerArgs: undefined,
+      _repeat: null,
+      _destroyed: false,
+      [Symbol(refed)]: false,
+      [Symbol(asyncId)]: 15,
+      [Symbol(triggerId)]: 14
+    },
+    [Symbol(kBuffer)]: null,
+    [Symbol(kBufferCb)]: null,
+    [Symbol(kBufferGen)]: null,
+    [Symbol(kBytesRead)]: 0,
+    [Symbol(kBytesWritten)]: 0
+  },
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  httpVersion: '1.1',
+  complete: true,
+  headers: {
+    host: '192.168.1.127:3000',
+    connection: 'keep-alive',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36',
+    accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-encoding': 'gzip, deflate',
+    'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    cookie: 'UM_distinctid=17423bd87112ff-08cc00850435d-3323766-1fa400-17423bd8712e1; CNZZDATA1279211004=1234334427-1598327458-%7C1598327458'
+  },
+  rawHeaders: [
+    'Host',
+    '192.168.1.127:3000',
+    'Connection',
+    'keep-alive',
+    'Upgrade-Insecure-Requests',
+    '1',
+    'User-Agent',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36',
+    'Accept',
+    'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'Accept-Encoding',
+    'gzip, deflate',
+    'Accept-Language',
+    'zh-CN,zh;q=0.9,en;q=0.8',
+    'Cookie',
+    'UM_distinctid=17423bd87112ff-08cc00850435d-3323766-1fa400-17423bd8712e1; CNZZDATA1279211004=1234334427-1598327458-%7C1598327458'
+  ],
+  trailers: {},
+  rawTrailers: [],
+  aborted: false,
+  upgrade: false,
+  url: '/error',
+  method: 'GET',
+  statusCode: null,
+  statusMessage: null,
+  client: Socket {
+    connecting: false,
+    _hadError: false,
+    _parent: null,
+    _host: null,
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: null,
+      pipesCount: 0,
+      flowing: true,
+      ended: false,
+      endEmitted: false,
+      reading: true,
+      sync: false,
+      needReadable: true,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      paused: false,
+      emitClose: false,
+      autoDestroy: false,
+      destroyed: false,
+      defaultEncoding: 'utf8',
+      awaitDrain: 0,
+      readingMore: false,
+      decoder: null,
+      encoding: null
+    },
+    readable: true,
+    _events: [Object: null prototype] {
+      end: [Array],
+      timeout: [Function: socketOnTimeout],
+      data: [Function: bound socketOnData],
+      error: [Function: socketOnError],
+      close: [Array],
+      drain: [Function: bound socketOnDrain],
+      resume: [Function: onSocketResume],
+      pause: [Function: onSocketPause]
+    },
+    _eventsCount: 8,
+    _maxListeners: undefined,
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: false,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      bufferedRequest: null,
+      lastBufferedRequest: null,
+      pendingcb: 0,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: false,
+      bufferedRequestCount: 0,
+      corkedRequestsFree: [Object]
+    },
+    writable: true,
+    allowHalfOpen: true,
+    _sockname: null,
+    _pendingData: null,
+    _pendingEncoding: '',
+    server: Server {
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _connections: 2,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      httpAllowHalfOpen: false,
+      timeout: 120000,
+      keepAliveTimeout: 5000,
+      maxHeadersCount: null,
+      headersTimeout: 40000,
+      _connectionKey: '6::::3000',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(asyncId)]: 10
+    },
+    _server: Server {
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      _connections: 2,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      httpAllowHalfOpen: false,
+      timeout: 120000,
+      keepAliveTimeout: 5000,
+      maxHeadersCount: null,
+      headersTimeout: 40000,
+      _connectionKey: '6::::3000',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(asyncId)]: 10
+    },
+    timeout: 120000,
+    parser: HTTPParser {
+      '0': [Function: parserOnHeaders],
+      '1': [Function: parserOnHeadersComplete],
+      '2': [Function: parserOnBody],
+      '3': [Function: parserOnMessageComplete],
+      '4': [Function: bound onParserExecute],
+      _headers: [],
+      _url: '',
+      socket: [Circular],
+      incoming: [Circular],
+      outgoing: null,
+      maxHeaderPairs: 2000,
+      _consumed: true,
+      onIncoming: [Function: bound parserOnIncoming],
+      parsingHeadersStart: 0
+    },
+    on: [Function: socketListenerWrap],
+    addListener: [Function: socketListenerWrap],
+    prependListener: [Function: socketListenerWrap],
+    _paused: false,
+    _httpMessage: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      socket: [Circular],
+      connection: [Circular],
+      _header: null,
+      _onPendingData: [Function: bound updateOutgoingData],
+      _sent100: false,
+      _expect_continue: false,
+      req: [Circular],
+      locals: [Object: null prototype] {},
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(isCorked)]: false,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    [Symbol(asyncId)]: 14,
+    [Symbol(kHandle)]: TCP {
+      reading: true,
+      onconnection: null,
+      _consumed: true,
+      [Symbol(owner)]: [Circular]
+    },
+    [Symbol(lastWriteQueueSize)]: 0,
+    [Symbol(timeout)]: Timeout {
+      _idleTimeout: 120000,
+      _idlePrev: [TimersList],
+      _idleNext: [Timeout],
+      _idleStart: 5263,
+      _onTimeout: [Function: bound ],
+      _timerArgs: undefined,
+      _repeat: null,
+      _destroyed: false,
+      [Symbol(refed)]: false,
+      [Symbol(asyncId)]: 15,
+      [Symbol(triggerId)]: 14
+    },
+    [Symbol(kBuffer)]: null,
+    [Symbol(kBufferCb)]: null,
+    [Symbol(kBufferGen)]: null,
+    [Symbol(kBytesRead)]: 0,
+    [Symbol(kBytesWritten)]: 0
+  },
+  _consuming: false,
+  _dumped: false,
+  next: [Function: next],
+  baseUrl: '',
+  originalUrl: '/error',
+  _parsedUrl: Url {
+    protocol: null,
+    slashes: null,
+    auth: null,
+    host: null,
+    port: null,
+    hostname: null,
+    hash: null,
+    search: null,
+    query: null,
+    pathname: '/error',
+    path: '/error',
+    href: '/error',
+    _raw: '/error'
+  },
+  params: {},
+  query: {},
+  res: ServerResponse {
+    _events: [Object: null prototype] { finish: [Function: bound resOnFinish] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      readable: true,
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      writable: true,
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      timeout: 120000,
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [Circular],
+      [Symbol(asyncId)]: 14,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 120000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 5263,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(asyncId)]: 15,
+        [Symbol(triggerId)]: 14
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0
+    },
+    connection: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _readableState: [ReadableState],
+      readable: true,
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      writable: true,
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      timeout: 120000,
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      _paused: false,
+      _httpMessage: [Circular],
+      [Symbol(asyncId)]: 14,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: Timeout {
+        _idleTimeout: 120000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 5263,
+        _onTimeout: [Function: bound ],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(asyncId)]: 15,
+        [Symbol(triggerId)]: 14
+      },
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0
+    },
+    _header: null,
+    _onPendingData: [Function: bound updateOutgoingData],
+    _sent100: false,
+    _expect_continue: false,
+    req: [Circular],
+    locals: [Object: null prototype] {},
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(isCorked)]: false,
+    [Symbol(kOutHeaders)]: [Object: null prototype] { 'x-powered-by': [Array] }
+  },
+  body: {},
+  secret: undefined,
+  cookies: {
+    UM_distinctid: '17423bd87112ff-08cc00850435d-3323766-1fa400-17423bd8712e1',
+    CNZZDATA1279211004: '1234334427-1598327458-|1598327458'
+  },
+  signedCookies: [Object: null prototype] {},
+  _parsedOriginalUrl: Url {
+    protocol: null,
+    slashes: null,
+    auth: null,
+    host: null,
+    port: null,
+    hostname: null,
+    hash: null,
+    search: null,
+    query: null,
+    pathname: '/error',
+    path: '/error',
+    href: '/error',
+    _raw: '/error'
+  }
+}
+[2020-09-04T15:07:57.502] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:11:55.602] [INFO] normal - test info 1
+[2020-09-04T15:11:57.297] [INFO] normal - test info 1
+[2020-09-04T15:12:07.026] [INFO] normal - test info 1
+[2020-09-04T15:12:09.053] [INFO] normal - test info 1
+[2020-09-04T15:12:12.403] [INFO] normal - GET /error {}
+[2020-09-04T15:12:12.412] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:12:52.467] [INFO] normal - test info 1
+[2020-09-04T15:14:12.145] [INFO] normal - test info 1
+[2020-09-04T15:14:13.092] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:14:13.096] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:14:33.522] [INFO] normal - test info 1
+[2020-09-04T15:14:38.920] [INFO] normal - test info 1
+[2020-09-04T15:14:39.774] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:14:39.804] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:15:03.186] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:15:03.188] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:15:43.425] [INFO] normal - test info 1
+[2020-09-04T15:15:56.608] [INFO] normal - test info 1
+[2020-09-04T15:15:58.112] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:15:58.141] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:16:07.034] [INFO] normal - test info 1
+[2020-09-04T15:16:08.270] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:16:08.305] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:16:20.660] [INFO] normal - test info 1
+[2020-09-04T15:16:22.158] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:16:22.194] [INFO] normal - { id: '1' }
+[2020-09-04T15:16:22.199] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:16:36.281] [INFO] normal - test info 1
+[2020-09-04T15:16:38.401] [INFO] normal - method: GET, url: /error, 请求参数：[object Object]
+[2020-09-04T15:16:38.406] [INFO] normal - [object Object]
+[2020-09-04T15:16:38.410] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:20:18.721] [INFO] normal - test info 1
+[2020-09-04T15:20:22.205] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:20:22.244] [INFO] normal - [object Object]
+[2020-09-04T15:20:22.248] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:20:51.221] [INFO] normal - test info 1
+[2020-09-04T15:22:49.680] [INFO] normal - test info 1
+[2020-09-04T15:26:56.454] [INFO] normal - test info 1
+[2020-09-04T15:26:59.082] [INFO] normal - test info 1
+[2020-09-04T15:27:38.920] [INFO] normal - test info 1
+[2020-09-04T15:27:46.169] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:27:46.185] [INFO] normal - [object Object]
+[2020-09-04T15:27:46.190] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:28:24.158] [INFO] normal - test info 1
+[2020-09-04T15:28:25.879] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:28:34.243] [INFO] normal - test info 1
+[2020-09-04T15:28:39.435] [INFO] normal - test info 1
+[2020-09-04T15:28:40.133] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:28:40.165] [INFO] normal - [object Object]
+[2020-09-04T15:28:40.168] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:29:07.878] [INFO] normal - test info 1
+[2020-09-04T15:29:09.282] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:29:09.316] [INFO] normal - [object Object]
+[2020-09-04T15:29:09.318] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:29:47.313] [INFO] normal - test info 1
+[2020-09-04T15:29:48.855] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:29:48.904] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:30:25.300] [INFO] normal - test info 1
+[2020-09-04T15:30:26.400] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T15:30:26.437] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:30:26.439] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T15:30:34.396] [INFO] normal - test info 1
+[2020-09-04T15:30:35.127] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T15:30:35.158] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T15:30:35.160] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T15:30:35.198] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T18:18:59.184] [INFO] normal - test info 1
+[2020-09-04T18:19:16.420] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:19:16.421] [INFO] normal - method: GET, url: /, 请求参数：{}
+[2020-09-04T18:19:16.449] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:19:17.054] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:19:17.054] [INFO] normal - method: GET, url: /favicon.ico, 请求参数：{}
+[2020-09-04T18:19:17.055] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:19:17.085] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:68:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T18:21:11.657] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:21:11.657] [INFO] normal - method: GET, url: /error, 请求参数：{"id":"1"}
+[2020-09-04T18:21:11.657] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:21:11.658] [INFO] normal - ---------错误日志-------- Error: 哇哦，错了！
+    at D:\vscodewk\node-example\express-gen\routes\error.js:8:11
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12)
+[2020-09-04T18:21:11.972] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:21:11.972] [INFO] normal - method: GET, url: /favicon.ico, 请求参数：{}
+[2020-09-04T18:21:11.972] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:21:11.973] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:68:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T18:36:50.892] [INFO] normal - test info 1
+[2020-09-04T18:47:39.471] [INFO] normal - test info 1
+[2020-09-04T18:48:21.571] [INFO] normal - test info 1
+[2020-09-04T18:49:23.078] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:49:23.078] [INFO] normal - method: GET, url: /, 请求参数：{}
+[2020-09-04T18:49:23.078] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:49:23.667] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:49:23.668] [INFO] normal - method: GET, url: /favicon.ico, 请求参数：{}
+[2020-09-04T18:49:23.668] [INFO] normal - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2020-09-04T18:49:23.669] [INFO] normal - ---------错误日志-------- ClientError [NotFoundError]: Not Found
+    at D:\vscodewk\node-example\express-gen\app.js:62:8
+    at Layer.handle [as handle_request] (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:317:13)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:275:10)
+    at D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:635:15
+    at next (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:260:14)
+    at Function.handle (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\vscodewk\node-example\express-gen\node_modules\express\lib\router\index.js:47:12) {
+  message: 'Not Found'
+}
+[2020-09-04T18:51:44.133] [INFO] normal - test info 1
+[2020-09-04T18:55:36.086] [INFO] normal - test info 1

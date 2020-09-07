@@ -1,0 +1,29 @@
+{
+    "apps": {
+        "name": "koa-drive",
+        "script": "./dist/app.js",
+        "interpreter_args": "-r dotenv/config",
+        "cwd": "./",
+        "env-dev": {
+            "NODE_ENV": "development"
+        },
+        "env": {
+            "NODE_ENV": "production"
+        },
+        "kill_timeout": 10000,
+        "error_file": "./logs/pm2/app-err.log",
+        "out_file": "./logs/pm2/app-out.log",
+        "merge_logs": true,
+        "log_date_format": "YYYY-MM-DD HH:mm:ss",
+        "min_uptime": "60s",
+        "max_restarts": 30,
+        "autorestart": true,
+        "restart_delay": "60",
+        "wait_ready": true,
+        "watch": true,
+        "ignore_watch": ["node_modules"],
+        "watch_options": {
+            "usePolling": true
+        }
+    }
+}

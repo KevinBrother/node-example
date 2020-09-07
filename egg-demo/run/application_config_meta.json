@@ -1,0 +1,280 @@
+{
+  "keys": "D:\\vscodewk\\node-example\\egg-demo\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "D:\\vscodewk\\node-example\\egg-demo\\config\\config.default.js",
+    "mapping": {
+      ".html": "D:\\vscodewk\\node-example\\egg-demo\\config\\config.default.js"
+    },
+    "root": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "news": {
+    "pageSize": "D:\\vscodewk\\node-example\\egg-demo\\config\\config.default.js",
+    "serverUrl": "D:\\vscodewk\\node-example\\egg-demo\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "main": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    },
+    "keywords": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "author": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\vscodewk\\node-example\\egg-demo\\node_modules\\egg\\config\\config.default.js"
+}

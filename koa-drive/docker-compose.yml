@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  koa-drive:
+    image: koa-drive
+    build: .
+    environment:
+      NODE_ENV: production
+    ports:
+      - 7200

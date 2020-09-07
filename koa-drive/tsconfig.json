@@ -1,0 +1,50 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "es5",
+        "module": "commonjs",
+        "lib": ["esnext", "dom"],
+        "strict": true,
+        "sourceMap": true,
+        "declaration": true,
+        "removeComments": true,
+        "allowSyntheticDefaultImports": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "incremental": true,
+        "outDir": "./dist",
+        "baseUrl": "./",
+        "plugins": [
+            {
+                "transform": "@zerollup/ts-transform-paths"
+            }
+        ],
+        "paths": {
+            "@/*": ["src/*"],
+            "@core": ["core/index.ts"],
+            "@core/*": ["core/*"],
+            "@decorators": ["decorators/index"],
+            "@decorators/*": ["decorators/*"],
+            "@libs/*": ["libs/*"],
+            "@db": ["libs/db/index"],
+            "@models/*": ["libs/models/*"],
+            "@middlewares/*": ["middlewares/*"],
+            "@helpers": ["helpers/index"],
+            "@helpers/*": ["helpers/*"],
+            "@interfaces": ["interfaces/index"],
+            "@interfaces/*": ["interfaces/*"]
+        }
+    },
+    "exclude": [
+        "node_modules",
+        "dist",
+        "tests",
+        "sum.ts",
+        "ts-node-note.ts"
+    ],
+    "include": [
+        "app.ts",
+        "./**/*"
+    ]
+  }
+  
